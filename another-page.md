@@ -1,13 +1,10 @@
-
 <h1>My Badges</h1>
 
-<!-- TryHackMe Badge via iframe -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=37405" style="border:none;" width="300" height="200"></iframe>
-
-<a href="https://www.hackthebox.eu/home/users/profile/294234" target="_blank">
-    <img src="https://www.hackthebox.eu/badge/image/294234" alt="Hack The Box Badge">
-</a>
-
-
-</body>
-</html>
+<div style="display: flex; gap: 20px; align-items: center;">
+    <a href="https://tryhackme.com/p/Relwarc17" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Relwarc17.png" alt="TryHackMe Badge" width="200">
+    </a>
+    <a href="https://www.hackthebox.eu/home/users/profile/294234" target="_blank">
+        <img src="https://www.hackthebox.eu/badge/image/294234" alt="Hack The Box Badge" width="200">
+    </a>
+</div>
