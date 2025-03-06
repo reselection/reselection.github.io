@@ -1,12 +1,12 @@
 # whoami
 
-
+* eJPT
 
 
 ## writeups
 
 - TryHackMe
-  - [DAV](./dav.md)
+  - [DAV](./writeups/tryhackme/dav.md)
 
 - Hack The Box
   - add
