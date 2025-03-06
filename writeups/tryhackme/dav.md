@@ -92,11 +92,11 @@ put <SHELL.PHP>
 
 It worked!
 Now simply click on the shell file that was uploaded and it will run the backdoor.
-Now we check back on our listener we uploaded.
+Now we check back on our listener we openend in another terminal.
 
 ![FOOTHOLD](/assets/images/tryhackme/DAV/foothold.png)
 
-Great we're in.
+Great we're in!
 Lets see if we can run any sudo commands.
 ```
 sudo -l
