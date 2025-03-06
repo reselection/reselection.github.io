@@ -57,6 +57,10 @@ Run this command, what files can be used?
 davtest -auth <user>:<password> -url http://<TARGET-IP>/webdav
 ```
 
+![DAVTEST](/assets/images/tryhackme/DAV/davtest.png)
+
+Here we see that we can upload PHP files.
+
 Now we're gonna grab a webshell and upload it to the website and we can execute
 it from the webdav index.
 
